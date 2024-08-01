@@ -22,6 +22,5 @@ int main(){
     }else{
         printf("The three points not fall one on straigth line");
     }
-    
     return 0;
 }
