@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&cp);
     printf("Enter selling price\n:");
     scanf("%d",&sp);
-
+    
     if(sp > cp){
         printf("Profit");
     }else if(cp>sp){
