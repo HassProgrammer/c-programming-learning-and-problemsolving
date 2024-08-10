@@ -17,5 +17,5 @@ int main(){
     else{
         printf("The point dose not lie on x or y axis and it is not origin.");
     }
-    return 0;
-}
+    return 0; 
+} 
